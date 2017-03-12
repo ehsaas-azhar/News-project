@@ -1,0 +1,30 @@
+
+.menubar{background-color: #ED1B24;}
+
+
+.menubar ul li {
+		color: white;
+	display:inline-block;
+	border:2px solid black;
+	list-style:none;
+	margin-right: 20px;
+	margin-left: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.news {
+	display:inline-block;
+	border:2px solid black;
+	width:30%;
+	margin-right:2%;
+
+}
+
+.news img {width:100%;}
+
+
+
+
+
+
